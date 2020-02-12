@@ -24,6 +24,6 @@ $(document).ready(function() {
       $("#gifOutput").html(image);
       //console.log(response2);
       //$("#gifOutput").text
-    }
+    };
   });
 });
